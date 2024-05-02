@@ -1,4 +1,4 @@
-# Gaea Mesa
+# Project Mesa
 
 ## Description
 This collection offers a set of decals and seamless textures designed in the style of a mesa biome. These assets are specifically crafted using Quadspinner's Gaea for use with the FAF (Forged Alliance Forever) map maker, providing map creators with high-quality resources to enhance their projects.
