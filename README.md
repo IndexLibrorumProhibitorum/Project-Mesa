@@ -9,7 +9,7 @@ This collection offers a set of decals and seamless textures designed in the sty
 
 ## Version History
 - **v1.0 (May 2, 2024):**
-  - Initial release of Gaea Mesa assets. First set of files uploaded.
+  - Initial release of Gaea Mesa assets. Set of Mesa decals uploaded.
 
 ## Feedback and Contributions
 Feedback, suggestions, and contributions to improve the Gaea Mesa assets are welcome! If you have ideas for additional decals, textures, or improvements, feel free to submit a pull request or open an issue on GitHub. You can also contact me through the FAF Discord.
