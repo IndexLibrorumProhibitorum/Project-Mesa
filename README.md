@@ -15,6 +15,7 @@ This collection offers a set of decals and seamless textures designed in the sty
 - **v1.2 (May 4, 2024):**
   - Added second set of mesa decals.
   - Added Gaea project file for the second set of mesa decals.
+  - Added Gaea project file for the map Project Mesa HD.v0002, as published on the FAF mapping vault. Includes node tree for the first set of mesa decals.
 
 ## Feedback and Contributions
 Feedback, suggestions, and contributions to improve the Gaea Mesa assets are welcome! If you have ideas for additional decals, textures, or improvements, feel free to submit a pull request or open an issue on GitHub. You can also contact me through the FAF Discord.
