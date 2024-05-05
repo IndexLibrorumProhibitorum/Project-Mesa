@@ -28,8 +28,11 @@ A series of Gaea tutorials as they relate to FAF map making has been [published 
 These assets were created by Index Librorum (aka Prohibitorum) and are made available under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Please refer to the LICENSE file for more details.
 
 ## Preview Images
+### Decals as used on Project Mesa HD
 ![image](https://github.com/IndexLibrorumProhibitorum/Gaea-Mesa/assets/64420140/c61084b2-32b3-4a0a-a550-f4d0e671e534)
 ![image](https://github.com/IndexLibrorumProhibitorum/Gaea-Mesa/assets/64420140/427d6b5e-1e5d-4ab9-8d81-f72a1b6559cf)
 
+### Included decals as of v1.2
+![image](https://github.com/IndexLibrorumProhibitorum/Project-Mesa/assets/64420140/be96f4a6-4ded-4c4c-8f57-44877c9581e9)
 
 Happy mapping!
