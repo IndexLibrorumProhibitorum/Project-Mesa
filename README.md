@@ -20,6 +20,10 @@ This collection offers a set of decals and seamless textures designed in the sty
 ## Feedback and Contributions
 Feedback, suggestions, and contributions to improve the Gaea Mesa assets are welcome! If you have ideas for additional decals, textures, or improvements, feel free to submit a pull request or open an issue on GitHub. You can also contact me through the FAF Discord.
 
+## Other links
+More information about my FAF and Gaea related projects can be found [in this thread on the FAF forums](https://forum.faforever.com/topic/6066/index-librorum-s-maps-assorted-projects-and-gaea-tutorials). 
+A series of Gaea tutorials as they relate to FAF map making has been [published on the FAF wiki](https://wiki.faforever.com/en/Development/Mapping/Gaea) as well.
+
 ## License
 These assets were created by Index Librorum (aka Prohibitorum) and are made available under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Please refer to the LICENSE file for more details.
 
